@@ -45,7 +45,7 @@
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ahmed-Khaled-ibrahem&layout=compact&hide=TSQL&theme=codeSTACKr">
 <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Khaled-ibrahem&count_private=true&show_icons=true&&theme=codeSTACKr&include_all_commits=true" width="400"></p>
 
-<p align="center" ><img src="https://github-readme-streak-stats-sigma-five.herokuapp.com?user=Ahmed-Khaled-ibrahem&theme=codeSTACKr"></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed-Khaled-ibrahem&theme=codeSTACKr"></p>
 
 <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Ahmed-Khaled-ibrahem&bg_color=0d1117&color=F8D866&line=fe652f&point=FFFFFF" />
 
