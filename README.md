@@ -38,7 +38,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy&logoColor=FFCA28)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=FFCA28)&nbsp;
 ![powerbi](https://img.shields.io/badge/-powerbi-FFCA28?style=flat&logo=powerbi&logoColor=05122A)&nbsp;
-![powerbi](https://img.shields.io/badge/-IBMCognos-FFCA28?style=flat&logo=cognos&logoColor=007ACC)&nbsp;
+![powerbi](https://img.shields.io/badge/-IBMCognos-4c4c4c?style=flat&logo=ibm&logoColor=007ACC)&nbsp;
 
 
 
