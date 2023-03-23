@@ -49,7 +49,9 @@
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed-Khaled-ibrahem&theme=codeSTACKr"></p>
 
+<!---             
 <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Ahmed-Khaled-ibrahem&bg_color=0d1117&color=F8D866&line=fe652f&point=FFFFFF" />
+-->
 
 <h3 align="center" > <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="30" height="30" style="margin-right: 10px;">Connect with me  </h3>
 
