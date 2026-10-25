@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="160" y1="0" x2="740" y2="0">
+      <stop offset="0" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <!-- soft-edged wipe used to reveal the title letter by letter -->
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.85" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <mask id="reveal" maskUnits="userSpaceOnUse" x="0" y="0" width="900" height="200">
+      <rect x="0" y="0" width="1000" height="200" fill="url(#edge)">
+        <animate attributeName="x" from="-1000" to="0" dur="0.9s" begin="0s" fill="freeze"
+                 calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+      </rect>
+    </mask>
+  </defs>
+  <style>
+    .t   { font: 800 64px -apple-system, "Segoe UI", Inter, Helvetica, Arial, sans-serif; letter-spacing: -1px;
+           transform-box: fill-box; transform-origin: center; animation: up .7s cubic-bezier(.2,.8,.2,1) both; }
+    .bar { transform-box: fill-box; transform-origin: center;
+           animation: grow .5s cubic-bezier(.2,.8,.2,1) .55s both; }
+    .s   { font: 500 22px -apple-system, "Segoe UI", Inter, Helvetica, Arial, sans-serif; fill: #8B949E; letter-spacing: 1px;
+           animation: fade .5s ease-out .8s both; }
+    @keyframes up   { from { transform: translateY(14px); } to { transform: translateY(0); } }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <g mask="url(#reveal)">
+    <text class="t" x="450" y="92" text-anchor="middle" fill="url(#g)">Software Engineer</text>
+  </g>
+  <rect class="bar" x="330" y="116" width="240" height="5" rx="2.5" fill="url(#g)"/>
+  <text class="s" x="450" y="165" text-anchor="middle">iOS Native  ·  Flutter  ·  IoT &amp; Embedded</text>
+</svg>
