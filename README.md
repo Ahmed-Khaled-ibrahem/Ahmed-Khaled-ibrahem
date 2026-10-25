@@ -1,21 +1,16 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0369A1,100:7C3AED&height=200&section=header&text=Ahmed%20Khaled&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descSize=20&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0369A1,100:7C3AED&height=200&section=header&text=Ahmed%20Khaled&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<!-- ===== PHOTO + INTRO ===== -->
-<table align="center">
-  <tr>
-    <td align="center" width="38%">
-      <img src="assets/profile.png" width="220" alt="Ahmed Khaled" />
-    </td>
-    <td width="62%">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&vCenter=true&width=440&lines=Software+Engineer;iOS+Native+%7C+Flutter+Cross-Platform;IoT+%26+Embedded+Systems;Turning+ideas+into+real+products" />
-      <br/><br/>
-      <b>Mobile Developer</b> building native iOS apps with Swift & SwiftUI and cross-platform apps with Flutter, and connecting them to smart hardware.
-    </td>
-  </tr>
-</table>
+<!-- ===== HERO ===== -->
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Software Engineer — iOS Native · Flutter · IoT & Embedded" />
+</p>
+
+<p align="center">
+  <b>Mobile Developer</b> building native iOS apps with Swift & SwiftUI and cross-platform apps with Flutter, and connecting them to smart hardware.
+</p>
 
 ---
 
